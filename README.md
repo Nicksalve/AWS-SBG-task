@@ -8,8 +8,8 @@ A one-page website that shows a step-by-step guide (as a single image) for turni
 
 | Item | Link |
 |------|------|
-| Live website | <https://aws-sbg-task-1.vercel.app/>|
-| GitHub repository | https://github.com/Nicksalve/AWS-SBG-task.git/> |
+| Live website | https://aws-sbg-task-1.vercel.app |
+| GitHub repository | https://github.com/Nicksalve/AWS-SBG-task.git |
 | Screenshot | see below |
 
 ### Screenshot of the deployed site
