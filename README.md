@@ -8,7 +8,7 @@ A one-page website that shows a step-by-step guide (as a single image) for turni
 
 | Item | Link |
 |------|------|
-| Live website | https://<your-github-username>.github.io/<repo-name>/ |
+| Live website | https://<https://aws-sbg-task-1.vercel.app/>.github.io/<repo-name>/ |
 | GitHub repository | https://github.com/<your-github-username>/<repo-name> |
 | Screenshot | see below |
 
